@@ -85,7 +85,7 @@ npm install –product
 至此完全配置完毕。
 
 #### 在线演示：
-![输入图片说明](https://images.gitee.com/uploads/images/2020/1122/060246_6fd3ef07_1810934.jpeg "小程序qr.jpg")
+ ![输入图片说明](https://images.gitee.com/uploads/images/2021/0818/185531_f380b4d8_9601221.jpeg "CC校友录平台公众号-qr.jpg")
 
  
 
